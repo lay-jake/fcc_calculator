@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc_calculator/static/css/main.0fb56164.css",
+    "main.js": "/fcc_calculator/static/js/main.bf502f04.js",
+    "static/js/787.dd89212b.chunk.js": "/fcc_calculator/static/js/787.dd89212b.chunk.js",
+    "index.html": "/fcc_calculator/index.html",
+    "main.0fb56164.css.map": "/fcc_calculator/static/css/main.0fb56164.css.map",
+    "main.bf502f04.js.map": "/fcc_calculator/static/js/main.bf502f04.js.map",
+    "787.dd89212b.chunk.js.map": "/fcc_calculator/static/js/787.dd89212b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb56164.css",
+    "static/js/main.bf502f04.js"
+  ]
+}
